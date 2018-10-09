@@ -1,0 +1,26 @@
+#JP {
+  border: solid;
+  border-color: black;
+
+}
+
+#LR {
+  border: solid;
+  border-color: black;
+
+}
+
+li.title {
+  font-style: italic;
+
+}
+
+h1 {
+  color: #cd2f42;
+
+}
+
+body {
+  background-color: #AFAFAF
+
+}
