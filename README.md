@@ -22,4 +22,4 @@ _Noah Schooler noahschooler1@gmai.com Victoria Martinez vmartinez72.vm@gamil.com
 _JavaScript,GitHub, HTML, CSS_
 
 ### License
-Copyright (c) 2016 **_Noah Schooler, Victoria Martinez, Miles Bradt_**
+Copyright (c) 2018 **_Noah Schooler, Victoria Martinez, Miles Bradt_**
